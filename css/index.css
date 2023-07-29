@@ -1,0 +1,25 @@
+/* 
+body{
+    background-color: black;
+}
+.navBar{
+    position: fixed;
+    padding: 0;
+}
+.slider{
+    padding: 30px 0px 0px 0px;
+}
+.dash{
+    display: block;
+    cursor: pointer;
+}
+i{
+    cursor: pointer;
+}
+.icona {
+    width: 2rem;
+    height: 2rem;
+}
+.icona{
+    background-color: black
+} */
